@@ -1,4 +1,4 @@
 # QTensor-mini
-A ProxyApp for the Tensor Network Package QTensor
-
-This is the final location of the QTensor-mini app, which is being moved out of the main QTensor package
+This is a proxy application for the tensor network package QTensor funded by Exascale Computing Project (ECP).
+The link to ECP proxy applications:
+https://proxyapps.exascaleproject.org/
