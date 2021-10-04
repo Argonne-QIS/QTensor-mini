@@ -1,0 +1,3 @@
+[submodule "libblastrampoline"]
+	path = libblastrampoline
+	url = https://github.com/JuliaLinearAlgebra/libblastrampoline.git
